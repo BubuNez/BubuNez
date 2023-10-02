@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BubuNez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Busola
+- 👀 I’m interested in finding solutions to complex problems
+- 🌱 I’m currently learning product management
+- 💞️ I’m looking to collaborate with companies on how to grow their brand 
+- 📫 How to reach me on Linkedin
 
 <!---
 BubuNez/BubuNez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
